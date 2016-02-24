@@ -29,10 +29,10 @@ html(lang='en')
       div.content-wrap
         block footer
           section.about
-            !=contents['about.md'].html
+            !=contents['footer.md'].html
           section.copy
             p &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; powered by&nbsp;
               a(href='https://github.com/jnordberg/wintersmith') Wintersmith
               //- please leave the "powered by" if you use the design
 
-    script(src='/js/game.js')
+    script(src='/js/game.js', type='text/javascript')

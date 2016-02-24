@@ -22,7 +22,7 @@ body {
     background-color: #f8f8f8;
     text-rendering: optimizeLegibility;
     /* commented out the animation because it seems to kill my laptop battery */
-    /*  -webkit-animation: borderChange 80s infinite alternate; */
+    animation: borderChange 80s infinite alternate;
     border-top: 6px solid #45CEEF;
 
 }
