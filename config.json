@@ -5,6 +5,7 @@
     "owner": "Mimi Flynn",
     "description": "UI Engineer"
   },
+  "port": 4000,
   "plugins": [
     "./plugins/paginator.coffee"
   ],
