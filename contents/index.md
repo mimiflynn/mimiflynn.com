@@ -5,8 +5,10 @@ date: 2016-02-18 18:36
 template: article.jade
 ---
 
+Senior user experience (UX) software engineer. She volunteers her time as an early member of The Things Network - New York, and as an active mentor and educator to locally-based and remote junior developers. Founder and lead of [SilentCog][1], a GitHub group that mentors junior engineers via code collaboration. Mimi loves building and fixing things; a perennial maker, always thinking of new applications for projects. She is committed to open source software and builds various types of low-cost embedded systems.
+
 ## Front End Senior UI Engineer, April 2015 – Present | EffectiveUI
-Utilizing BackboneJS and ReactJS to create rich interactive web applications.
+Creating web apps, rapid prototypes, and style guides. ReactJS, Webpack, Flux, Redux, etc.
 
 ## Front End Web Developer, Partner September 2010 – Present | Swingset Imagination
 Specializing in accessible, cross-browser HTML5 code that retains consistent branding between desktop and mobile platforms.
@@ -41,3 +43,4 @@ Agile product design and development approach focusing on user-experience, front
 ## Senior Web Developer 2000 – 2003 | Mesh.net, Fort Worth, Texas
 Directed and supervised the development and design of websites, updated and maintained websites, oversaw UI and graphic design, and designed and implemented search engine optimization strategies.
 
+[1]: https://github.com/SilentCog

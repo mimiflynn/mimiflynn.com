@@ -8,7 +8,7 @@ I'm a software engineer living in NYC. I enjoy rock climbing, camping, cycling, 
 
 If your interested in checking out everything I've ever read on the internet go to [PulleyAndRope][3].
 
-[1]: http://mimiflynn.com
+[1]: https://github.com/mimiflynn
 [2]: http://wintersmith.io
-[3]: http://pulleyandrope.com
+[3]: https://pulleyandrope.com
 

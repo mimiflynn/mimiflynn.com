@@ -3,7 +3,5 @@ extends layout
 
 block content
   article.article
-    section.content!= contents['about.md'].html
-  article.article
     section.content!= typogr(contents['index.md'].html).typogrify()
 
