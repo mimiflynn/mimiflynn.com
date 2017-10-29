@@ -1,13 +1,16 @@
 ---
 title: Resume
 author: mimiflynn
-date: 2017-05-20 18:36
+date: 2017-10-29 18:36
 template: article.jade
 ---
 
 Senior user experience (UX) software engineer. She volunteers her time as an early member of The Things Network - New York, and as an active mentor and educator to locally-based and remote junior developers. Founder and lead of [SilentCog][1], a GitHub group that mentors junior engineers via code collaboration. Mimi loves building and fixing things; a perennial maker, always thinking of new applications for projects. She is committed to open source software and builds various types of low-cost embedded systems.
 
-## Senior UI Engineer, January 2017 - Present | IPsoft
+## UI Engineer, VP Prime Brokerage, July 2017 - Present | Morgan Stanley
+Developing web and mobile based applications for the Matrix platform with Angular, ngrx, and Ionic.
+
+## Senior UI Engineer, January 2017 - June 2017 | IPsoft
 Leading a team of 6 to support 30+ custom client UI deployments of the Amelia AI customer support platform. Developing and designing ReactJS applications. Utilizing Git and NPM for version control and component reuse. Managing devOps through continuous integration with Bamboo and Bash scripting.
 
 ## Front End Senior UI Engineer, April 2015 – December 2016 | EffectiveUI
