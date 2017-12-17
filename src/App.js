@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+
+import Resume from './pages/resume/';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Mimi Flynn</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Senior user experience (UX) software engineer. She volunteers her time as an early member of The Things Network - New York, and as an active mentor and educator to locally-based and remote junior developers. Mimi loves building and fixing things; a perennial maker, always thinking of new applications for projects. She is committed to open source software and builds various types of low-cost embedded systems.
         </p>
+        <Resume />
       </div>
     );
   }
