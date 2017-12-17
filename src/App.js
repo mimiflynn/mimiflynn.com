@@ -11,10 +11,12 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Mimi Flynn</h1>
         </header>
-        <p className="App-intro">
-          Senior user experience (UX) software engineer. She volunteers her time as an early member of The Things Network - New York, and as an active mentor and educator to locally-based and remote junior developers. Mimi loves building and fixing things; a perennial maker, always thinking of new applications for projects. She is committed to open source software and builds various types of low-cost embedded systems.
-        </p>
-        <Resume />
+        <div className="App-body">
+          <p className="App-intro">
+            Senior user experience (UX) software engineer. She volunteers her time as an early member of The Things Network - New York, and as an active mentor and educator to locally-based and remote junior developers. Mimi loves building and fixing things; a perennial maker, always thinking of new applications for projects. She is committed to open source software and builds various types of low-cost embedded systems.
+          </p>
+          <Resume />
+        </div>
       </div>
     );
   }
