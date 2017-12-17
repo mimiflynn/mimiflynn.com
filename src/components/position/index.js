@@ -1,13 +1,20 @@
-import React, { Component } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 
-class Position extends Component {
-  render() {
-    return (
-      <div>
-        <h3>A job!</h3>
-      </div>
-    );
-  }
+const Position = ({
+  item
+}) => (
+  <div>
+    <h2>{ item.company }</h2>
+    <h3>{ item.title }</h3>
+    <h4>{ item.dates }</h4>
+    <p>{ item.description }</p>
+  </div>
+);
+
+Position.propTypes = {
+  item: PropTypes.object
 }
 
 export default Position;
+

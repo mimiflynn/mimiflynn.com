@@ -34,7 +34,6 @@ class Resume extends Component {
 
     return (
       <div>
-        <h2>Resume</h2>
         { positions }
       </div>
     );
