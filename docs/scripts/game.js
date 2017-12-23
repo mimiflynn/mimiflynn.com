@@ -147,7 +147,7 @@ var game = new Game('Westward Bound', {
 var player = game.player;
 
 if (window.console) {
-  console.log('    __  ____           _    ________                \n   /  |/  (_)___ ___  (_)  / ____/ /_  ______  ____ \n  / /|_/ / / __ ` __ \/ /  / /_  / / / / / __ \/ __  \\\n / /  / / / / / / / / /  / __/ / / /_/ / / / / / / /\n/_/  /_/_/_/ /_/ /_/_/  /_/   /_/\__,  /_/ /_/_/ /_/ \n                                /____/              \n\nHi! feel free to use the email form to contact me regarding job opportunitues.\n------------------------------------------------------------------------------\n');
+  console.log('    __  ____           _    ________                \n   /  |/  (_)___ ___  (_)  / ____/ /_  ______  ____ \n  / /|_/ / / __ ` __ \/ /  / /_  / / / / / __ \/ __  \\\n / /  / / / / / / / / /  / __/ / / /_/ / / / / / / /\n/_/  /_/_/_/ /_/ /_/_/  /_/   /_/\__,  /_/ /_/_/ /_/ \n                                /____/              \n\nHi! Enjoy your time here!\n------------------------------------------------------------------------------\n');
   game.init();
 } else {
   document.getElementsByTagName('h1')[0].innerHTML = 'Gotta use a different browser.';
