@@ -1,17 +1,17 @@
 /*
     Animation of the top border of the page. Used on the body tag.
 */
-@keyframes borderChange {
+/* @keyframes borderChange {
     0% {border-color: #3B5667;}
     25% {border-color: #ff0000;}
     50% {border-color: #1e9ec2;}
     75% {border-color: #ff8000;}
     100% {border-color: #007733;}
-}
+} */
 
 
 .App-header {
-  padding: 20px 0;
+  padding: 2rem 0;
 }
 
 .App-body {
@@ -20,7 +20,7 @@
 }
 
 .App-title {
-  font-size: 2em;
+  font-size: 2rem;
 }
 
 
@@ -29,12 +29,12 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
-    font-size: 21px;
+    font-size: 1rem;
     line-height: 1.52;
     background-color: #f8f8f8;
     text-rendering: optimizeLegibility;
     animation: borderChange 80s infinite alternate;
-    border-top: 6px solid #45CEEF;
+    border-top: 0.5rem solid #45CEEF;
 }
 
 body, a {
