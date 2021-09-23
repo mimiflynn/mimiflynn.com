@@ -1,5 +1,3 @@
-/* https://github.com/mimiflynn/console-game */
-
 function Game(name, options) {
 
   var actions = options.actions;
@@ -75,8 +73,6 @@ function Game(name, options) {
     if (window.console) {
       directions();
       play();
-    } else {
-      document.getElementsByTagName('h1')[0].innerHTML = 'Gotta use a different browser.';
     }
   };
 }
