@@ -1,5 +1,17 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  display: none;
+}
+
+article section.mf-content {
+  text-align: center;
+}
+
 footer {
-    position: fixed;
-    bottom: 1rem;
-    right: 1rem;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
 }

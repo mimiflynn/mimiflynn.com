@@ -1,0 +1,25 @@
+{
+  "name": "mimiflynn.com",
+  "version": "1.0.0",
+  "description": "Personal site.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "http-server docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimiflynn/mimiflynn.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimiflynn/mimiflynn.com/issues"
+  },
+  "homepage": "https://github.com/mimiflynn/mimiflynn.com#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
